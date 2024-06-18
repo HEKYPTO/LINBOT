@@ -24,7 +24,7 @@ This project implements a FastAPI-based web application integrated with the LINE
 ├── dockerfile
 ├── .env (your own)
 ├── main.py
-└── requirement.txt
+└── requirements.txt
 ```
 
 ## Setup
@@ -39,7 +39,7 @@ cd LINBOT
 ```
 2. Install dependencies:
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Environment Variables
